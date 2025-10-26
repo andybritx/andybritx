@@ -17,6 +17,3 @@ Participei recentemente do Programa Geração Caldeira, uma das maiores capacita
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Estatísticas no GitHub
-
-![Estatísticas do Andy](https://github-readme-stats.vercel.app/api?username=andybritx&show_icons=true&theme=dracula)
