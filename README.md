@@ -3,7 +3,8 @@
 ## Sobre Mim
 
 Sou estudante apaixonado por tecnologia e sempre busco entender como tudo funciona - do hardware ao desenvolvimento de soluções inovadoras.  
-No momento, aprofundo meus conhecimentos em **Inteligência Artificial**, **Python**, **React** e **MySQL**.  
+No momento, aprofundo meus conhecimentos em **Inteligência Artificial**, **Python**, e **Cibersecurity**
+
 Participei recentemente do Programa Geração Caldeira, uma das maiores capacitações tecnológicas do Brasil, focando em IA e Dados.
 
 - 💻 Transformo ideias em soluções reais, utilizando programação e análise de dados.
